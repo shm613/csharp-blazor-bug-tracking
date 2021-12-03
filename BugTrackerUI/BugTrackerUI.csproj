@@ -8,4 +8,12 @@
     <Folder Include="Components\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Shared\LeftNav.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Shared\LeftNav.razor" />
+  </ItemGroup>
+
 </Project>
