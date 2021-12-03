@@ -13,7 +13,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <_ContentIncludedByDefault Remove="Pages\NewBug.razor" />
     <_ContentIncludedByDefault Remove="Shared\LeftNav.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Pages\NewBug.razor" />
   </ItemGroup>
 
 </Project>
